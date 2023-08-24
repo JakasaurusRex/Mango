@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Mango/Pods-Mango-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Erik/Erik.framework
+${BUILT_PRODUCTS_DIR}/Kanna/Kanna.framework
+${BUILT_PRODUCTS_DIR}/SwiftSoup/SwiftSoup.framework

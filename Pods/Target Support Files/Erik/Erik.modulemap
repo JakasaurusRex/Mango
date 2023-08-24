@@ -1,0 +1,6 @@
+framework module Erik {
+  umbrella header "Erik-umbrella.h"
+
+  export *
+  module * { export * }
+}

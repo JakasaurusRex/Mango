@@ -1,0 +1,27 @@
+PODS:
+  - Erik (5.0.0):
+    - Erik/Core (= 5.0.0)
+    - Kanna
+  - Erik/Core (5.0.0):
+    - Kanna
+  - Kanna (5.2.7)
+  - SwiftSoup (2.4.3)
+
+DEPENDENCIES:
+  - Erik
+  - SwiftSoup
+
+SPEC REPOS:
+  trunk:
+    - Erik
+    - Kanna
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Erik: 660e6bc7fe68a0c17e0f50142ae2d8168426c22e
+  Kanna: 01cfbddc127f5ff0963692f285fcbc8a9d62d234
+  SwiftSoup: 3384f2e618cfc1b3cbc7852c16692fe8de13fb8f
+
+PODFILE CHECKSUM: 958ef8175448f25cb1d155091b3be27f3534a2e0
+
+COCOAPODS: 1.12.1
