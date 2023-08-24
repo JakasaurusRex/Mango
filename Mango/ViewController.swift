@@ -28,15 +28,18 @@ class ViewController: UIViewController {
                 } else if let doc = document {
                     // HTML Inspection
                     var array: [String] = []
+                    var set = Set<String>()
                     for link in doc.querySelectorAll("img, img-fluid") {
                         if link["src"]?.contains(".png") == false {
                             continue
                         }
+                        if(set.contains(link["src"]!)) {
+                            continue
+                        }
                         array.append(link["src"]!)
+                        set.insert(link["src"]!)
                     }
-                    
                     print(array)
-                    
                 }
         }
         
