@@ -25,13 +25,13 @@ The application will be made using Xcode and coded in Swift. This document will 
 - [ ] Search screen
 - [ ] New and Upcoming screen - Using myanimelist?
 - [ ] Settings for accessibility
+- [ ] Cool App Icon
 - [ ] Nice UI that works on all modern iOS devices
 
 
 **Optional Nice-to-have Stories**
 
 - [ ] Accounts? Maybe unnecessary
-- [ ] 
  
  ### App Demo
 Not Available Yet!
